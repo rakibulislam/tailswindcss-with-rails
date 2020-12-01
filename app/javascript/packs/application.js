@@ -16,6 +16,4 @@
 // const imagePath = (name) => images(name, true)
 
 console.log('Hello World from Webpacker');
-
-require("alpinejs");
 import '../stylesheets/application.scss';
